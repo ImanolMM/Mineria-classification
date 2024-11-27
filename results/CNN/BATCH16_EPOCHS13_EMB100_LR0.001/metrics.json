@@ -1,0 +1,129 @@
+{
+    "Birth asphyxia": {
+        "precision": 0.5882352941176471,
+        "recall": 0.38461538461538464,
+        "f1-score": 0.46511627906976744,
+        "support": 26.0
+    },
+    "Certain infectious and Parasitic Diseases": {
+        "precision": 0.5252525252525253,
+        "recall": 0.48598130841121495,
+        "f1-score": 0.5048543689320388,
+        "support": 107.0
+    },
+    "Congenital malformation": {
+        "precision": 0.4,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.21052631578947367,
+        "support": 14.0
+    },
+    "Diseases of Respiratory System": {
+        "precision": 0.4175824175824176,
+        "recall": 0.40860215053763443,
+        "f1-score": 0.41304347826086957,
+        "support": 93.0
+    },
+    "Diseases of the Digestive System": {
+        "precision": 0.3,
+        "recall": 0.12,
+        "f1-score": 0.17142857142857143,
+        "support": 25.0
+    },
+    "Diseases of the Genitourinary System": {
+        "precision": 0.26666666666666666,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.18604651162790697,
+        "support": 28.0
+    },
+    "Diseases of the Nervous System": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "Diseases of the circulatory system": {
+        "precision": 0.5443037974683544,
+        "recall": 0.5733333333333334,
+        "f1-score": 0.5584415584415584,
+        "support": 75.0
+    },
+    "Endocrine, Nutritional and Metabolic Diseases": {
+        "precision": 0.2631578947368421,
+        "recall": 0.38461538461538464,
+        "f1-score": 0.3125,
+        "support": 26.0
+    },
+    "External Causes of Morbidity and Mortality": {
+        "precision": 0.6851851851851852,
+        "recall": 0.7872340425531915,
+        "f1-score": 0.7326732673267327,
+        "support": 94.0
+    },
+    "Hemorrhagic fever": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "Injury, Poisoning and External Causes": {
+        "precision": 0.9230769230769231,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7741935483870968,
+        "support": 18.0
+    },
+    "Neoplasms": {
+        "precision": 0.5454545454545454,
+        "recall": 0.32432432432432434,
+        "f1-score": 0.4067796610169492,
+        "support": 37.0
+    },
+    "Other Cardiovascular Diseases": {
+        "precision": 0.2692307692307692,
+        "recall": 0.4375,
+        "f1-score": 0.3333333333333333,
+        "support": 32.0
+    },
+    "Other Defined Causes of Child Deaths": {
+        "precision": 0.3333333333333333,
+        "recall": 0.07692307692307693,
+        "f1-score": 0.125,
+        "support": 13.0
+    },
+    "Other Infectious Diseases": {
+        "precision": 0.21428571428571427,
+        "recall": 0.36,
+        "f1-score": 0.26865671641791045,
+        "support": 25.0
+    },
+    "Other Injuries": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1-score": 0.2222222222222222,
+        "support": 8.0
+    },
+    "Other Non-communicable Diseases": {
+        "precision": 0.3333333333333333,
+        "recall": 0.3684210526315789,
+        "f1-score": 0.35,
+        "support": 38.0
+    },
+    "Pregnancy, childbirth and the puerperium": {
+        "precision": 0.6388888888888888,
+        "recall": 0.8,
+        "f1-score": 0.7104247104247104,
+        "support": 115.0
+    },
+    "accuracy": 0.5006402048655569,
+    "macro avg": {
+        "precision": 0.434104594137534,
+        "recall": 0.34678584264874085,
+        "f1-score": 0.35501266014100746,
+        "support": 781.0
+    },
+    "weighted avg": {
+        "precision": 0.502192342283681,
+        "recall": 0.5006402048655569,
+        "f1-score": 0.4873473862180664,
+        "support": 781.0
+    }
+}
